@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**codedbybidoof/codedbybidoof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🦫 **비버가 집을 짓는 것처럼 차근차근, 단단하게 개발합니다.**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 My Activities
+- 📱 **UMC 9기 Android 챌린저**로 활동 중
+
+---
+
+## 🏆 Awards
+- 🏅 **교내 프로그래밍 경진대회 수상**
+- 🥇 **너디너리 해커톤 수상**
