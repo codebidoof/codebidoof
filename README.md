@@ -5,10 +5,10 @@
 ---
 
 ## 📌 My Activities
-- 📱 **UMC 9기 Android 챌린저**로 활동 중
+- 📱 **UMC 9기 Android 챌린저**
 
 ---
 
 ## 🏆 Awards
-- 🏅 **교내 프로그래밍 경진대회 수상**
-- 🥇 **너디너리 해커톤 수상**
+- 🏅 **교내 프로그래밍 경진대회 PCCE 부문 최우수상(Lv 4, 1000/1000)**
+- 🥇 **9th NE(O)RDINARY HACKATHON 최우수상 수상**
