@@ -20,9 +20,9 @@
 
 ---
 
-<div align=center><h1>📚 TECH STACKS</h1></div>
+<div align=left><h1>📚 TECH STACKS</h1></div>
 
-<div align=center>
+<div align=left>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/C%23-99CC00?style=for-the-badge&logo=csharp&logoColor=white">
@@ -32,8 +32,6 @@
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white">
   <img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
-
-  
 
 ---
 
