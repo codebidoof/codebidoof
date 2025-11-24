@@ -36,14 +36,15 @@
 ---
 
 <div align="left">
-
+  
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=codbidoof&show_icons=true&theme=transparent" height="180px" width="400px"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=codbidoof&show_icons=true&theme=transparent" height="180px"/>
+  
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codbidoof&layout=compact&theme=transparent" height="180px" width="400px"/>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codbidoof&layout=compact&theme=transparent" height="180px"/>
+  
 </div>
+
 
 
 
