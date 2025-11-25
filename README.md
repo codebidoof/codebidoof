@@ -59,9 +59,7 @@
   
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codbidoof&layout=compact&theme=transparent" height="180px"/>
+
+  [![trophy](https://github-profile-trophy.vercel.app/?username=codbidoof&theme=flat&column=5)](https://github.com/ryo-ma/github-profile-trophy)
   
 </div>
-
-
-
-
