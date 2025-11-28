@@ -61,6 +61,5 @@
   <!-- GitHub Stats -->
   
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codbidoof&layout=compact&theme=transparent" height="180px"/>
   
 </div>
