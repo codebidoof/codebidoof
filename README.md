@@ -17,6 +17,10 @@
 🥈 교내 프로그래밍 경진대회 PCCE 부문 최우수상(Lv 4, 1000/1000)<br>
 🥈 9th NE(O)RDINARY HACKATHON 최우수상<br>
 🥉 TOEIC 845점
+<div align="left">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebidoof&layout=compact&theme=transparent" height="180px"/>
+</div>
 
 ---
 
@@ -55,10 +59,3 @@
 </div>
 
 ---
-
-<div align="left">
-  
-  <!-- GitHub Stats -->
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebidoof&layout=compact&theme=transparent" height="180px"/>
-</div>
