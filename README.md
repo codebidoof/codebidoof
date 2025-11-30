@@ -1,14 +1,6 @@
-<div align=center>
-<br>
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=MKY's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
-
-<br>
-
 ## 👋 Hi there
 
-🦫 비버니가 집을 짓는 것처럼 차근차근, 단단하게 개발합니다.  
-모바일 앱 개발에 관심이 많습니다.
+🦫 비버니가 집을 짓는 것처럼 차근차근, 단단하게 개발합니다. 모바일 앱 개발에 관심이 많습니다.
 
 ---
 
@@ -66,7 +58,4 @@
 <div align="left">
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebidoof&layout=compact&theme=transparent" height="180px"/>
-</div>
-
-<br><br>
 </div>
