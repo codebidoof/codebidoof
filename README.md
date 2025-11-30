@@ -59,7 +59,7 @@
 <div align="left">
   
   <!-- GitHub Stats -->
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=codebidoof&show_icons=true&theme=transparent" height="180px"/>
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebidoof&layout=compact&theme=transparent" height="180px"/>
 </div>
