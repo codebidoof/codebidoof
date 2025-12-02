@@ -4,20 +4,6 @@
 
 ---
 
-## 📌 My Activities
-🪖 前 대한민국 육군 15사단 39여단 통신중대 HCTR운용병(2023.01 ~ 2024.07)<br>
-🏫 現 서경대학교 소프트웨어학과 재학(2025.03 ~)<br>
-🌱 現 UMC 9기 Android 챌린저(2025.09 ~) 
-
----
-
-## 🏆 Achievements & Awards
-🥇 2025학년도 2학기 서경대학교 소프트웨어학과 3학년 1등 성적우수장학생(4.4/4.5)<br>
-🥈 교내 프로그래밍 경진대회 PCCE 부문 최우수상(Lv 4, 1000/1000)<br>
-🥈 9th NE(O)RDINARY HACKATHON 최우수상<br>
-
----
-
 <div align="left"><h1>📚 TECH STACKS</h1></div>
 
 <!-- Languages -->
