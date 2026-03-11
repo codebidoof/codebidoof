@@ -41,7 +41,7 @@
 
 ---
 
-### 🔍 Github Stats
+### 🔍 Stats
 | Top Languages | GitHub Stats |
 |---|---|
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codebidoof&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)](https://github.com/codebidoof) | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codebidoof&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&cache_seconds=86400)](https://github.com/codebidoof) |
