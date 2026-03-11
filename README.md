@@ -33,6 +33,6 @@
 ---
 
 ### 🔍 Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codebidoof&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/codebidoof)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codebidoof&layout=compact&theme=gruvbox_light&hide_border=true)](https://github.com/codebidoof)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codebidoof&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&cache_seconds=3600)](https://github.com/codebidoof)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codebidoof&show_icons=true&include_all_commits=true&theme=gruvbox_light&hide_border=true&cache_seconds=3600)](https://github.com/codebidoof)
