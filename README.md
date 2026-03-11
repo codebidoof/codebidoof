@@ -1,14 +1,5 @@
-## 👋 Hi there
-
-🦫 비버니가 집을 짓는 것처럼, 차근차근 단단하게 성장 중입니다. 모바일 앱 개발에 관심이 많습니다.
-
-### 🧠 Like
-- **자신을 돌아보며 부족한 점을 고치고 성장해 나가는 과정**을 중요하게 생각합니다.  
-- 서로를 도우며 **다 함께 성취해 나가는 분위기**를 좋아합니다.  
-- 저 혼자만의 성과만을 중시하는 것이 아닌 **팀에 기여할 때 가장 큰 성취감**을 느낍니다.
-
----
-
+<!-- Header -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=A67C52&height=300&section=header&text=🦫Bidoof's%20Github&fontSize=70&fontColor=FFFFFF)
 <!-- Languages -->
 ### 🔤 Languages
 <div align="left">
