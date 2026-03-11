@@ -26,7 +26,7 @@
 <div align="left">
   <img src="https://img.shields.io/badge/Android%20Studio-6B4F3A?style=for-the-badge&logo=androidstudio&logoColor=white">
   <img src="https://img.shields.io/badge/Visual%20Studio-6B4F3A?style=for-the-badge&logo=visualstudio&logoColor=white">
-  <img src="https://img.shields.io/badge/VS%20Code-6B4F3A?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+  <img src="https://img.shields.io/badge/VSCode-6B4F3A?style=for-the-badge&logo=visualstudiocode&logoColor=white">
   <img src="https://img.shields.io/badge/Eclipse-6B4F3A?style=for-the-badge&logo=eclipse&logoColor=white">
 </div>
 
