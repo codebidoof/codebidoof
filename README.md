@@ -43,7 +43,6 @@
 
 ---
 
-<div align="left">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebidoof&layout=compact&theme=transparent" height="180px"/>
-</div>
+| GitHub Stats | Top Languages |
+|---|---|
+| [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codebidoof&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&cache_seconds=86400)](https://github.com/codebidoof) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codebidoof&layout=compact&theme=buefy&hide_border=true&cache_seconds=86400)](https://github.com/codebidoof) |
