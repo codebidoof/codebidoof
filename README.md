@@ -1,5 +1,5 @@
 <!-- Header -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=A67C52&height=300&section=header&text=🦫Bidoof's%20Github&fontSize=70&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=C77DFF&height=300&section=header&text=Bidoof's%20Github&fontSize=70&fontColor=FFFFFF)
 <!-- Languages -->
 ### 🔤 Languages
 <div align="left">
